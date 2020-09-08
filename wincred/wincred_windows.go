@@ -6,8 +6,8 @@ import (
 	"strings"
 
 	winc "github.com/danieljoos/wincred"
-	"github.com/docker/docker-credential-helpers/credentials"
-	"github.com/docker/docker-credential-helpers/registryurl"
+	"github.com/jojomomojo/docker-credential-helpers/credentials"
+	"github.com/jojomomojo/docker-credential-helpers/registryurl"
 )
 
 // Wincred handles secrets using the Windows credential service.

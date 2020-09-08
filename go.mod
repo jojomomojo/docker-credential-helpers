@@ -1,4 +1,4 @@
-module github.com/docker/docker-credential-helpers
+module github.com/jojomomojo/docker-credential-helpers
 
 go 1.15
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/docker/docker-credential-helpers/credentials"
-	"github.com/docker/docker-credential-helpers/secretservice"
+	"github.com/jojomomojo/docker-credential-helpers/credentials"
+	"github.com/jojomomojo/docker-credential-helpers/secretservice"
 )
 
 func main() {

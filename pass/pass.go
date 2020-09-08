@@ -16,7 +16,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/docker/docker-credential-helpers/credentials"
+	"github.com/jojomomojo/docker-credential-helpers/credentials"
 )
 
 const PASS_FOLDER = "docker-credential-helpers"

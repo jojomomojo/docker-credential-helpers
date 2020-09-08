@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/docker/docker-credential-helpers/credentials"
-	"github.com/docker/docker-credential-helpers/wincred"
+	"github.com/jojomomojo/docker-credential-helpers/credentials"
+	"github.com/jojomomojo/docker-credential-helpers/wincred"
 )
 
 func main() {
